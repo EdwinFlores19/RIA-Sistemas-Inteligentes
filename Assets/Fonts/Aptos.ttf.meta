@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: aed6da9226a4ae64eb897bc176d23f27
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Aptos
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 71fc403e1eb79cd46aa0a59450db5677, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
